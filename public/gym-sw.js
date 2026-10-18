@@ -1,6 +1,6 @@
 const CACHE_PREFIX = 'gym-master-offline-';
 
-const CACHE_NAME = `${CACHE_PREFIX}v2`;
+const CACHE_NAME = `${CACHE_PREFIX}v3`;
 
 const OFFLINE_URL = new URL(
   'offline.html',
