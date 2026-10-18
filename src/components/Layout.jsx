@@ -15,7 +15,7 @@ import './gym-layout.css';
 
 function Layout({
   children,
-  gymName = 'Gym Master',
+  gymName = 'Yaseen Gym',
   adminName = 'Gym Admin',
   onLogout,
 }) {

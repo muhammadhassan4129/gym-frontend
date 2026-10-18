@@ -54,7 +54,7 @@ async function main() {
     svg.trim()
   );
 
-  console.log('Gym Master PWA icons generated in public/icons');
+  console.log('Yaseen Gym PWA icons generated in public/icons');
 }
 
 main().catch((error) => {
