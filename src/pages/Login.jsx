@@ -136,7 +136,7 @@ function Login({ setIsAuth }) {
 
               <div>
                 <p className="text-xl font-extrabold tracking-tight text-white">
-                  Gym Master
+                  Yaseen Gym
                 </p>
 
                 <p className="mt-1 text-[9px] font-semibold uppercase tracking-[0.2em] text-zinc-500">
@@ -204,7 +204,7 @@ function Login({ setIsAuth }) {
 
             <div>
               <p className="text-lg font-bold text-white">
-                Gym Master
+                Yaseen Gym
               </p>
 
               <p className="mt-0.5 text-[9px] uppercase tracking-widest text-zinc-500">
@@ -371,7 +371,7 @@ function Login({ setIsAuth }) {
             </p>
 
             <div className="mt-10 flex items-center justify-between border-t border-white/10 pt-5 text-[10px] text-zinc-600">
-              <span>Gym Master</span>
+              <span>Yaseen Gym</span>
               <span>Management workspace</span>
             </div>
           </div>

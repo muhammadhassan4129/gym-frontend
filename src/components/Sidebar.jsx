@@ -12,7 +12,7 @@ function Sidebar({
   mobile = false,
   onNavigate,
   onClose,
-  gymName = 'Gym Master',
+  gymName = 'Yaseen Gym',
   adminName = 'Gym Admin',
 }) {
   const { pathname } = useLocation();

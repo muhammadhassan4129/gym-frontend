@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "Gym Master",
-  "short_name": "Gym Master",
+  "name": "Yaseen Gym",
+  "short_name": "Yaseen Gym",
   "description": "Manage gym members, subscriptions, payments and reports.",
   "lang": "en",
   "start_url": "/",

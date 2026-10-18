@@ -120,7 +120,7 @@ function PwaControls() {
 
             <div>
               <p className="text-xs font-semibold text-zinc-200">
-                Gym Master on your device
+                Yaseen Gym on your device
               </p>
 
               <p className="mt-1 text-[10px] text-zinc-500">
@@ -174,7 +174,7 @@ function PwaControls() {
         <div className="rounded-xl border border-white/10 bg-[#10151a] p-4">
           <div className="flex items-center justify-between gap-3">
             <p className="text-sm font-semibold text-white">
-              Install Gym Master
+              Install Yaseen Gym
             </p>
 
             <button
